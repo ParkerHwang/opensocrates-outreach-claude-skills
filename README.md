@@ -136,7 +136,7 @@
 
 
 ## 📘 Learning & Knowledge  
-- [OpenSocrates](https://github.com/ParkerHwang/OpenSocrates) - Claude skill with 48 English/Korean reasoning procedures for testing assumptions, comparing choices, and identifying evidence that would change a conclusion.
+- [OpenSocrates](https://github.com/ParkerHwang/OpenSocrates) - Claude skill with 48 authored reasoning procedures in 10 instruction languages for checking assumptions, comparing choices, and identifying evidence that would change a conclusion.
 - [karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) - Markdown-first skill for building and maintaining a personal LLM wiki from raw sources, compiled knowledge pages, query workflows, and linting.
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.  
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
